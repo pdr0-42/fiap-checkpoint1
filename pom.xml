@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<builder>paketobuildpacks/builder-jammy-base:latest</builder>
+						<name>pvini0403/fiap-checkpoint1</name>
 					</image>
 				</configuration>
 			</plugin>
